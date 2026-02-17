@@ -1,0 +1,5 @@
+{
+  "name": "MMT Decima Sector Map",
+  "description": "An interactive global map application visualizing the Makkah Decima Standard (MDS) time system with real-time sector tracking and prayer window overlays.",
+  "requestFramePermissions": []
+}
